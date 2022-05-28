@@ -1,0 +1,153 @@
+1400 xxl
+1200 xl
+992 lg
+768 md
+576 sm
+575 xsm
+
+
+@media(max-width: 1399px){}
+
+@media(max-width: 1199px){
+    .navbar-top p {
+        font-size: 16px;
+    }
+    .banner_content .btn_custom {
+        font-size: 16px;
+        padding: 11px 28px;
+    }
+    .banner_content h1 {
+        font-size: 52px;
+    }
+    .how_text {
+        margin: 0px 0px;
+    }
+    .how_text h1 {
+        font-size: 40px;
+        padding-bottom: 1px;
+    }
+    .how_text h4 {
+        font-size: 16px;
+        padding-bottom: 16px;
+    }
+    .how_text p {
+        color: var(--text-color);
+        font-size: 15.1px;
+        padding-bottom: 14px;
+    }
+    .ingredients_section .ingredients_img {
+        height: 490px;
+        margin-left: -60px;
+    }
+    .ingredients_text {
+        margin: 0px 0px;
+        margin-right: -49px;
+    }
+    .ingredients_text h1 {
+        font-size: 41px;
+        padding-bottom: 6px;
+    }
+    .ingredients_text h4 {
+        font-size: 18px;
+        padding-bottom: 18px;
+    }
+    .ingredients_text p {
+        font-size: 17px;
+        padding-bottom: 12px;
+    }
+    .ingredients_text img {
+        height: 40px;
+    }
+    .snacking_text {
+        margin: 13px 0px;
+        margin-left: 30px;
+    }
+    .snacking_text h1 {
+        font-size: 38px;
+    }
+    .snacking_text h6 {
+        line-height: 24px;
+        font-size: 15.5px;
+        padding-bottom: 6px;
+    }
+    .email-text h1 {
+        font-size: 38px;
+        padding-bottom: 5px;
+    }
+    .email-text p {
+        font-size: 15px;
+        line-height: 25px;
+        margin-bottom: -6px;
+    }
+    .heading h2 {
+        font-size: 47px;
+    }
+    .heading P {
+        font-size: 21px;
+    }
+    .explore_text a {
+        font-size: 36px;
+    }
+
+
+
+}
+
+@media(max-width: 991px){
+    .navbar-top h2 {
+        padding-bottom: 9px;
+    }
+    .navbar-top p {
+        font-size: 14px;
+    }
+    .banner_content h1 {
+        font-size: 40px;
+    }
+    .banner_content p {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .banner_content .btn_custom {
+        font-size: 14px;
+        padding: 9px 24px;
+    }
+    .product_section {
+        padding: 23px 16px;
+    }
+    .heading h2 {
+        font-size: 42px;
+    }
+    .heading P {
+        font-size: 22px;
+    }
+    .product_box {
+        margin: 0px 0px;
+    }
+    .img-fluid {
+        max-width: 70%;
+    }
+    .product_box h3 {
+        font-size: 20px;
+        padding-top: 12px;
+    }
+    .product_box .btn_product1 {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .product_box .btn_product2 {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .product_box .btn_product3 {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .how_section .how-images {
+        height: 348px;
+    }
+    
+}
+
+@media(max-width: 767px){}
+
+@media(max-width: 575px){}
